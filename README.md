@@ -40,7 +40,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     "app_name": "JJService",
     "app_des": "jjservice",
     "app_version": "1.0",
-    "build_version": "2020.10.10"
+    "build_version": "2020.10.10",
     "port": 8080
 }
 ```
