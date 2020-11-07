@@ -7,7 +7,7 @@
       </div>
       <div class="banner-text">
         <p style="color:#47494E;font-size: 22px;margin-top: 20px;margin-bottom: 10px">JJService Apps</p>
-        <p>Welcome to JJService platform of <a href="http://renj.io" style="text-decoration: none;color: #408fec">Renj.io</a> projects.It's a platform that manages all the Renj Apps which is written by Golang.</p>
+        <p>Welcome to JJService platform of <a href="http://renj.io" style="text-decoration: none;color: #408fec">Renj.io</a> projects.It's a platform written in Golang, responsible for managing all the Renj Apps.</p>
         <br>
         <pre class="code"><code>
           <p style="margin-bottom: 8px"><b style="color: #42b983">$</b> jjservice <span>start --app</span></p>
