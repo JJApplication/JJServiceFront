@@ -42,7 +42,7 @@ export default {
       cpu: '',
       mem: '',
       timer: null,
-      timer_count: 30
+      timer_count: 10
     }
   },
   mounted(){
@@ -51,6 +51,7 @@ export default {
       that.sys();
     },5000);
   },
+  // 定时器应该在超时后自动清除
   beforeDestroy(){
     if(this.timer){
       clearInterval(this.timer);
